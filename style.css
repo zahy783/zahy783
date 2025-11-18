@@ -3,6 +3,7 @@ body{
 margin: 0;
 padding: 20px;
 background-image:url("https://i.pinimg.com/736x/32/f0/11/32f011bb45732c2609524b1c6b7fdc9d.jpg");
+     background-repeat: no-repeat, no-repeat;
 }
 h1 {
     color: #0066cc;
